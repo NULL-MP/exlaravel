@@ -5,7 +5,7 @@
 @section('contenido')
 <br></br>
     <div class="card">
-        <div class="card-header">CRUD Con Laravel & MySql </div>
+        <div class="card-header"> CRUD Personas </div>
         <div class="card-body">
          <div class="row">
             <div class="col-sm-12">
