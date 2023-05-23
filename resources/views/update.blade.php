@@ -46,7 +46,7 @@
                     </div>
                     <div class="col">
                         <label for="">Email</label>
-                        <input type="text" name="telefono" class="form-control" required value="{{$personas->email}}" >
+                        <input type="email" name="telefono" class="form-control" required value="{{$personas->email}}" >
                     </div>
                 </div>
                 <label for="">Fecha de Nacimiento</label>

@@ -18,7 +18,7 @@ return new class extends Migration
             $table->string('segNom', 30);
             $table->string('paterno', 30);
             $table->string('materno', 30);
-            $table->string('telefono', 10);
+            $table->string('telefono', 10) ->change();
             $table->string('email', 30);
             $table->date('fechaNac');
             $table->timestamps();
